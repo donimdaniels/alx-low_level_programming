@@ -6,6 +6,7 @@
  * @c: character to find
  * Return: the string from character found
  */
+
 char *_strchr(char *s, char c)
 {
 	int a = 0, b;
