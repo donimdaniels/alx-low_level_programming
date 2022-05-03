@@ -8,8 +8,7 @@
 
 int _evaluate(int i, int n)
 {
-	/*Evaluate function*/
-	if (n == 0 || n == 1)
+	if (n == 0 || n == 1) /*Evalute function*/
 		return (n);
 
 	else if (i * i < n)
