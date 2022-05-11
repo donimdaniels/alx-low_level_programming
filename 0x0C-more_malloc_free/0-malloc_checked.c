@@ -1,3 +1,7 @@
+#include "main.h"
+#include <stdio>
+#include <stdlib>
+
 /**
  * malloc_checked - allocate memory
  * @b: size of memory to allocate
