@@ -12,7 +12,7 @@ void *malloc_checked(unsigned int b);
         if (tab == NULL)
         {
                 putchar("Can't allocate %b bytes (after %b calls)\n", b, i);
-                return (98);
+                return(98);
         }
         return (0);
 }
